@@ -1,6 +1,12 @@
 # LinkedIn Image Downloader for iOS
-
 A Scriptable script that downloads images from LinkedIn posts directly to your iPhone's Photos app, with automatic avatar filtering.
+
+![Platform](https://img.shields.io/badge/platform-iOS-blue.svg)
+![Swift](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![App Store](https://img.shields.io/badge/App%20Store-Scriptable-blue.svg?logo=apple)
+![Downloads](https://img.shields.io/github/downloads/aloscha-elk/linkedin-image-downloader-ios/total?color=success)
+![Stars](https://img.shields.io/github/stars/aloscha-elk/linkedin-image-downloader-ios?style=social)
+
 
 ## Features
 
